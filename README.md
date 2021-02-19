@@ -1,3 +1,3 @@
 # JavaScript-Head-First
 
-Learning JavaScript Fundamentals through Head-First JavaScript by Eric Freeman and Elizabeth Robson
+Learning JavaScript Fundamentals through the Head-First JavaScript textbook by Eric Freeman and Elizabeth Robson
